@@ -4,6 +4,7 @@ description = "or how to stop fearing and love the bs"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
+date = "2024-06-28"
 +++
 
 
