@@ -1,12 +1,26 @@
 ---
-slug: "github-embrace-mundanity"
-title: "embrace_mundanity"
-repo: "justin-napolitano/embrace_mundanity"
-githubUrl: "https://github.com/justin-napolitano/embrace_mundanity"
-generatedAt: "2025-11-23T08:53:13.751320Z"
-source: "github-auto"
+slug: github-embrace-mundanity
+title: 'Embrace Mundanity: Documenting Daily Routine Challenges and Reflections'
+repo: justin-napolitano/embrace_mundanity
+githubUrl: https://github.com/justin-napolitano/embrace_mundanity
+generatedAt: '2025-11-23T08:53:13.751320Z'
+source: github-auto
+summary: >-
+  A minimalist project exploring the struggle of maintaining basic daily routines through personal
+  reflections and habit formation insights.
+tags:
+  - habit-formation
+  - mental-health
+  - personal-journal
+  - markdown
+  - static-site-generator
+seoPrimaryKeyword: daily routine challenges
+seoSecondaryKeywords:
+  - habit formation
+  - mental health
+  - personal journaling
+seoOptimized: true
 ---
-
 
 # Embrace Mundanity: A Technical Reflection
 
