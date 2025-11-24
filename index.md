@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - mental health
   - personal journaling
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is a personal journal-style reflection on daily routine challenges, habit formation, and
+  mental health, using markdown and aimed at documenting lifestyle insights. This aligns closely
+  with the 'personal' family description and example slug 'github-embrace-mundanity'.
 ---
 
 # Embrace Mundanity: A Technical Reflection
@@ -65,3 +71,4 @@ This project serves as a reference for understanding the friction in habit forma
 ## Summary
 
 "Embrace Mundanity" is a minimalist, content-driven project documenting the author's candid reflections on daily life challenges. It is a foundational piece that could be expanded into a more comprehensive tool or journal for habit tracking and mental health awareness, with a focus on practical, incremental change rather than idealized outcomes.
+
