@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/embrace_mundanity
 generatedAt: '2025-11-24T21:34:38.858Z'
 source: github-auto
 summary: >-
-  A personal project examining daily life routines and mental health through
-  structured markdown content.
+  A personal project examining daily life routines and mental health through structured markdown
+  content.
 tags:
   - markdown
   - static site generator
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - mental well-being documentation
   - project structure markdown
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -84,3 +84,4 @@ The `index.md` file contains frontmatter metadata for title, description, author
 ---
 
 *Note: The repository currently contains a single markdown file with personal reflections. No code or executable components are present.*
+
