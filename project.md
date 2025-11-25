@@ -1,14 +1,14 @@
 ---
 slug: github-embrace-mundanity
 id: github-embrace-mundanity
-title: Exploring Daily Routines with Embrace Mundanity Project
+title: Exploring Daily Routines and Mental Well-Being in Markdown
 repo: justin-napolitano/embrace_mundanity
 githubUrl: https://github.com/justin-napolitano/embrace_mundanity
 generatedAt: '2025-11-24T21:34:38.858Z'
 source: github-auto
 summary: >-
-  A personal project reflecting on daily routines and mental well-being,
-  structured in markdown for easy editing and static site generation.
+  A personal project examining daily life routines and mental health through
+  structured markdown content.
 tags:
   - markdown
   - static site generator
@@ -17,13 +17,13 @@ tags:
   - daily routines
   - Hugo
   - Jekyll
-seoPrimaryKeyword: daily routines markdown project
+seoPrimaryKeyword: markdown mental health project
 seoSecondaryKeywords:
-  - mental well-being reflections
-  - static site markdown
-  - personal journaling
-  - project structure
-  - content expansion
+  - daily routines markdown
+  - personal reflections markdown
+  - static site content
+  - mental well-being documentation
+  - project structure markdown
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
